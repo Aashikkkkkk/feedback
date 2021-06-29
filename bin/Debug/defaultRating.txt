@@ -1,0 +1,4 @@
+{"Rating":"Excellent"},
+{"Rating":"Good"},
+{"Rating":"Average"},
+{"Rating":"Dissatisfied"}

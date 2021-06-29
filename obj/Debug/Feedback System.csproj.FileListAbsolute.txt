@@ -1,0 +1,6 @@
+C:\Users\Aashik\Desktop\Feedback System\obj\Debug\Feedback System.csproj.AssemblyReference.cache
+C:\Users\Aashik\Desktop\Feedback System\obj\Debug\Feedback_System.AdminForm.resources
+C:\Users\Aashik\Desktop\Feedback System\obj\Debug\Feedback_System.Properties.Resources.resources
+C:\Users\Aashik\Desktop\Feedback System\obj\Debug\Feedback System.csproj.GenerateResource.cache
+C:\Users\Aashik\Desktop\Feedback System\obj\Debug\Feedback System.exe
+C:\Users\Aashik\Desktop\Feedback System\obj\Debug\Feedback System.pdb
